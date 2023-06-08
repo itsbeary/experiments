@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="experiments:jar">
+    <output-path>$USER_HOME$/Desktop/smpaddons/plugins</output-path>
+    <root id="archive" name="experiments.jar">
+      <element id="module-output" name="experiments" />
+    </root>
+  </artifact>
+</component>

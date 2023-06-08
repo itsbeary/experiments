@@ -1,0 +1,7 @@
+name: experiments
+version: '${project.version}'
+main: github.itsbeary.experiments.Experiments
+api-version: 1.19
+commands:
+  summondisplay:
+    description: "Summons a display"
